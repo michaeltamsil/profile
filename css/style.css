@@ -1,0 +1,27 @@
+* {
+    margin: 10px 30px;
+}
+.header {
+    background-color: bisque;
+    border-color black;
+    border-style: solid;
+    border-width: 30px;
+    border-radius: 10%;
+    color: blueviolet;
+    height: 10px;
+    padding: 100px;
+}
+
+.content {
+    background-color: crimson;
+    color: brown;
+    font-size: 20px;
+    height: 400px;
+    text-align: right;
+}
+
+.footer {
+    background-color: darkgrey;
+    color: coral;
+    height: 100px;
+}

@@ -1,0 +1,22 @@
+.text-big-responsive{
+    font-size: 1em;
+}
+
+@media (min-width: 768px) {
+    .text-big-responsive{
+        font-size: 1.2em;
+    }
+}
+
+@media (min-width: 992px) {
+    .text-big-responsive{
+        font-size: 1.6em;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    .text-big-responsive{
+        font-size: 2em;
+    }
+}
